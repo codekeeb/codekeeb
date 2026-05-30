@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Banner -->
-  <img src="https://raw.githubusercontent.com/codekeeb/codekeeb/main/assets/WOB_Codekeeb_horizontal.png" alt="code/keeb banner" width="50%" />
+  <img src="https://raw.githubusercontent.com/codekeeb/codekeeb/main/assets/WOB_Codekeeb_horizontal.png" alt="code/keeb banner" width="25%" />
   <!-- Animated typing -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C5CE7&center=true&vCenter=true&width=600&lines=Custom+Mechanical+Keyboards;Where+Code+Meets+Keystrokes;Build+Your+Dream+Setup" alt="Typing animation" />
   <!-- Badges -->
